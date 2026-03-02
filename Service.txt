@@ -1,6 +1,6 @@
 Tiar
 Supercar
-Bugatti Chiron
+Pagani Huayra
 Ganti Decal
 Suby
 Habibi
@@ -33,3 +33,8 @@ Sedan
 Mercedes Benz C
 Lampu sen merah
 Farhan
+Habibi
+Coupe
+BMW
+Ban Bocor
+Aldo

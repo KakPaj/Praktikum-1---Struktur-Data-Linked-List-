@@ -176,7 +176,7 @@ void singleCust()
                 system("cls");
                 that = that -> next;
             }
-            else
+            else    
             {
                 system("cls");                
                 that = headCust;
